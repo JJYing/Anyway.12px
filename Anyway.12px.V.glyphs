@@ -1,5 +1,5 @@
 {
-.appVersion = "1141";
+.appVersion = "1342";
 customParameters = (
 {
 name = Axes;
@@ -10,7 +10,7 @@ Tag = rdus;
 },
 {
 Name = Size;
-Tag = sze;
+Tag = szze;
 }
 );
 },
@@ -23,13 +23,6 @@ date = "2019-03-25 05:50:36 +0000";
 designer = "JJ Ying";
 designerURL = "http://Anyway.FM";
 familyName = Anyway.V;
-featurePrefixes = (
-{
-automatic = 1;
-code = "languagesystem DFLT dflt;\012";
-name = Languagesystems;
-}
-);
 fontMaster = (
 {
 alignmentZones = (
@@ -129294,10 +129287,9 @@ name = Corner;
 },
 {
 interpolationWeight = 2;
-interpolationWidth = 2;
+interpolationWidth = 10;
 instanceInterpolations = {
-"64B0F755-413F-4F21-ADB4-C2FD406877A5" = -0.08889;
-"9FB0ED61-62F6-47D3-93E3-C04D87742A9B" = 1.08889;
+"9FB0ED61-62F6-47D3-93E3-C04D87742A9B" = 1;
 };
 name = Tiny;
 widthClass = "Ultra Expanded";
